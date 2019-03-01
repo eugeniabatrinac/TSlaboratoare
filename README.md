@@ -4,3 +4,5 @@ Instrumentele folosite:
 Selenium,
 Maven,
 WebDriver.
+
+
